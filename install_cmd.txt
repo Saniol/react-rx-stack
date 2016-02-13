@@ -1,0 +1,17 @@
+npm install
+
+
+Commands:
+npm start
+npm test
+npm build
+npm install <package> --save
+npm install <package> --save-dev
+
+Editor:
+Atom https://atom.io/
+ + language-javascript-better
+ + language-javascript-jsx
+ + linter
+ + linter-eslint
+ + react-snippets

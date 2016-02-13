@@ -1,0 +1,1 @@
+<button onClick={this.handleClick}>{this.props.text}</button>
